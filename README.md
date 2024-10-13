@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vmartinez5310
-- 👀 I’m interested in ...Java c++ Peyton
+- 👀 I’m interested in ...Java c++ 
 - 🌱 I’m currently learning ...UnADM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
